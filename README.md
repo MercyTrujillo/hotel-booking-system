@@ -1,7 +1,7 @@
 # Hotel Management Web Application
 
 ## Overview
-Full-stack web application developed as an academic project to simulate a hotel management system. The platform allows users to browse rooms, make reservations, and simulate payments, while providing administrative functionality to manage bookings and monitor system activity. 
+Full-stack web application developed as an academic project to simulate a hotel management system. The platform allows users to browse rooms, make reservations while providing administrative functionality to manage bookings and monitor system activity. 
 This project was developed as part of a university database course and focuses on demonstrating full-stack development fundamentals, database design, and basic system architecture.
 
 ## Features
@@ -9,7 +9,6 @@ This project was developed as part of a university database course and focuses o
 -Customer Functionality
 View available rooms
 Make reservations
-Simulated payment process
 User registration and login
 
 -Admin Functionality
